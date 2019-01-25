@@ -1,0 +1,25 @@
+{
+  "name": "rbgio-limitelimite",
+  "version": "0.0.1",
+  "description": "Implementation of limitelimite game for boardgamereactio",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasLaforge/rbgio-limitelimite.git"
+  },
+  "keywords": [
+    "limitelimite",
+    "rbgio"
+  ],
+  "author": "Thomas Laforge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasLaforge/rbgio-limitelimite/issues"
+  },
+  "homepage": "https://github.com/ThomasLaforge/rbgio-limitelimite#readme"
+}
